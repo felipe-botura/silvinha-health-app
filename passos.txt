@@ -1,0 +1,14 @@
+"Configuração da conta local do GIT:
+git config --global user.name felipe-botura
+
+git config --global user.email felipebotura7@gmail.com
+
+Criar um projeto react native com expo
+npx create-expo-app SilvinhaHealthApp
+
+Executar o projeto  
+    estar na pasta do projeto
+    npx expo start --localhost --android
+
+restaurar um projeto
+    npm i                  
