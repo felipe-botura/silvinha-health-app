@@ -10,5 +10,5 @@ Executar o projeto
     estar na pasta do projeto
     npx expo start --localhost --android
 
-restaurar um projeto
+restaurar um projeto apos clonar
     npm i                  
